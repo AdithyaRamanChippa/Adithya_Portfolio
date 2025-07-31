@@ -1,3 +1,2 @@
-# KSN_Portfolio
-Portfolio Sachin
+Portfolio Adithya
 # Adithya_Portfolio
